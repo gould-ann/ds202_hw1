@@ -1,0 +1,30 @@
+---
+title: "hw1"
+output: html_document
+name: Ann Gould
+github: gould-ann
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## JOB
+
+![](https://miro.medium.com/max/3840/0*hmFg5WnkeqLcRLjA.jpg)
+
+from [this udacity website](https://blog.udacity.com/2018/01/4-types-data-science-jobs.html)
+
+**Data Engineers**
+
+Data engineering deals with the processing of a lot of data associated with data science and machine learning. It is an infrastructure related position that deals with heavy duty data processing for data scientists to hopefully model someday. This position typically requires a knowledge of *data science* but also heavily relies on *software engineering* skills.
+
+
+## GITHUB
+
+username: gould-ann
+
+
+```{r version}
+print(version)
+```
+
