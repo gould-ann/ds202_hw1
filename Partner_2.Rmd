@@ -1,0 +1,27 @@
+---
+title: "partner_2"
+author: "Brett Santema"
+date: "1/29/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Collaborating on GitHub
+
+
+Partner's full name: Ann Gould
+
+Partner's Github: gould-ann
+
+Partner's repo: https://github.com/gould-ann/ds202_hw1
+
+What did the owner do in the most recent commit? In the most recent commit made by the owner, Ann made the initial commit with hw1.Rmd and html files. 
+
+What was the commit ID? *72a4a57*
+
+Knit hw1.Rmd. Are you able to do so without error? Yes, I was able to knit Ann's hw1 without any errors. 
+
+Difficulties or a tip for making GitHub easier: It would be nice if the code viewer on the GitHub website had a shortcut to let you view the actual page for .html files, instead of just the html source code, because in this class we aren't particularly concerned with the HTML code and more so just the web browser view itself. 
